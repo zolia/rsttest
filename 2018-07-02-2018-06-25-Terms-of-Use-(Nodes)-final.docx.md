@@ -1,11 +1,4 @@
----
-title: 2018 06 25 Terms of Use (Nodes) final.docx
-layout: post
-author: antanas
-permalink: /2018-06-25-terms-of-use-(nodes)-final.docx/
-source-id: 18rh6gCB24qsHgBN9Tb4Qwpmr5Od2V7nRbXDw6v9AOcE
-published: true
----
+
 **MYSTERIUM NETWORK OPEN ALPHA  **
 
 **TERMS OF USE **
